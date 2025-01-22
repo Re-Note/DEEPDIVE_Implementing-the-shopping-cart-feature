@@ -20,4 +20,8 @@
 
 ### [구현 결과 이미지]
 
+![9결과1](https://github.com/user-attachments/assets/9f2519e6-44f4-4a94-953a-146f1dd6db52)
+
+![9결과2](https://github.com/user-attachments/assets/5d99b541-8b3e-4620-8f50-76bc382a41c2)
+
 ---
